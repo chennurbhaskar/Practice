@@ -1,0 +1,9 @@
+about
+==============
+Name:c.Reddybhaskar
+age:28
+address:12-54,Pokanati street,B.kothakota,Chittoor dist,A.P.
+
+collegelife
+-============
+I am joined mits at june,2012.
